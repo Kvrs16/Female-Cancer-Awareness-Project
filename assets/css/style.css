@@ -19,7 +19,7 @@
   font-size: 18px;
   border: 4px solid #fff;
   outline: none;
-  background-color: #F7567C;
+  background-color:#3b02497C;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -27,12 +27,12 @@
 }
 
 #myBtn:hover {
-  background-color: #f31c4e;
+  background-color:#c221ea7c;
 }
 
 /* nav bar css  */
 .bg-pink{
-    background-color: #F7567C;
+    background-color: #3b02497C;
 }
 
 .navbar-brand{
@@ -52,7 +52,7 @@
     background-size: cover;
     width: 100%;
     height: 70vh;
-    color: #F7567C ;
+    color: #3b02497C ;
 }
 
 .hero-figure .content {
@@ -105,7 +105,7 @@
 /* footer css starts here  */
 .site-footer
 {
-  background-color: #F7567C ;
+  background-color: #3b02497C ;
   padding:45px 0 20px;
   font-size:15px;
   line-height:24px;
