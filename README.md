@@ -1,7 +1,7 @@
 ## Inspired my Aunt who survived the Last Stage Cancer and Decided to work on the Gap which she faced
 ## ABC - All together for Breast Cancer Warriors 
 ## 1. To detect the cancer by unique symptom and it's syndrome to prevent the last stage
-## 2. People can relate and inspire from the one who are like themselves, fighting in the same situation and  have came out from it with the flying colors like my aun, here the can share their daily routine during the fight and people who got fit can give suggestion.
+## 2. People can relate and inspire from the one who are like themselves, fighting in the same situation and  have came out from it with the flying colors like my aunt, here the can share their daily routine during the fight and people who got fit can give suggestion.
 ## 3. To provide the consultancies from the best doctors and specialist by getting the rating from those who got cured from them.
 ## 4. Providing them suggestion of Diet and Yoga which could help them to prevent the metastatic and spreading in other organs.  
 
